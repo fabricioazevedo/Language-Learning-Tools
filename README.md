@@ -1,2 +1,2 @@
 # Language-Learning-Tools
-Some scripts to handle frequency lists related to foreign languages
+Some scripts to handle frequency lists related to foreign languages vocabulary
